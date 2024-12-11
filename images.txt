@@ -7,3 +7,4 @@ registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4@sha256:a9f03b34a3cbfbb
 registry.k8s.io/ingress-nginx/controller:v1.11.3
 registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
 nginx:alpine
+nginx:alpine-arm64v8
