@@ -2,9 +2,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-rancher/rancher-agent:v2.9.3
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.4.4@sha256:a9f03b34a3cbfbb26d103a14046ab2c5130a80c3d69d526ff8063d2b37b9fd3f
-registry.k8s.io/ingress-nginx/controller:v1.11.3
-registry.k8s.io/ingress-nginx/opentelemetry-1.25.3:v20240813-b933310d
-nginx:alpine
-arm64v8/nginx
+arm64v8/nginx:1.26-bookworm-otel
