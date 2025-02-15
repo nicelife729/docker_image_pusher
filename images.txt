@@ -2,4 +2,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-localai/localai:latest-gpu-nvidia-cuda-12
+#localai/localai:latest-gpu-nvidia-cuda-12
+collinwebdesigns/fastapi-dls:latest
