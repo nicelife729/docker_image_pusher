@@ -3,4 +3,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #localai/localai:latest-gpu-nvidia-cuda-12
-collinwebdesigns/fastapi-dls:latest
+#collinwebdesigns/fastapi-dls:latest
+rancher/k3d:latest-dind
