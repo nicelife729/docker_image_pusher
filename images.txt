@@ -5,5 +5,6 @@
 #localai/localai:latest-gpu-nvidia-cuda-12
 #collinwebdesigns/fastapi-dls:latest
 #rancher/k3d:latest-dind
-nvidia/cuda:12.2.0-base-ubi8
-nvidia/cuda:12.0.0-base-ubi8
+#nvidia/cuda:12.2.0-base-ubi8
+#nvidia/cuda:12.0.0-base-ubi8
+pytorch/pytorch:latest
