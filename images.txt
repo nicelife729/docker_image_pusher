@@ -9,4 +9,5 @@
 #nvidia/cuda:12.0.0-base-ubi8
 #pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
 #demisto/openssh:1.0.0.56444
-xhofe/alist
+#xhofe/alist
+lobehub/lobe-chat:1.70.10
