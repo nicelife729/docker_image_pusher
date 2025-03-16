@@ -1,13 +1,18 @@
 #支持私库
-#xhofe/alist:latest
+
+
+#xhofe/alist:latest  
 #支持指定架构
-#--platform=linux/arm64 xiaoyaliu/alist
-#localai/localai:latest-gpu-nvidia-cuda-12
-#collinwebdesigns/fastapi-dls:latest
-#rancher/k3d:latest-dind
-#nvidia/cuda:12.2.0-base-ubi8
-#nvidia/cuda:12.0.0-base-ubi8
-#pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime
-#demisto/openssh:1.0.0.56444
-#xhofe/alist
-lobehub/lobe-chat:1.70.10
+
+
+#--platform=linux/arm64 xiaoyaliu/alist  
+#localai/localai:latest-gpu-nvidia-cuda-12  
+#collinwebdesigns/fastapi-dls:latest  
+#rancher/k3d:latest-dind  
+#nvidia/cuda:12.2.0-base-ubi8  
+#nvidia/cuda:12.0.0-base-ubi8  
+#pytorch/pytorch:2.5.1-cuda12.1-cudnn9-runtime  
+#demisto/openssh:1.0.0.56444  
+#xhofe/alist  
+#lobehub/lobe-chat:1.70.10
+nocodb/nocodb:0.262.2
