@@ -15,4 +15,5 @@
 #demisto/openssh:1.0.0.56444  
 #xhofe/alist  
 #lobehub/lobe-chat:1.70.10
-nocodb/nocodb:0.262.2
+#nocodb/nocodb:0.262.2
+easzlab/kubeasz:3.6.2
