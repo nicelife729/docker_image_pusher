@@ -57,4 +57,5 @@
 #quay.io/prometheus/alertmanager:v0.25.0
 #quay.io/prometheus/node-exporter:v1.5.0
 #quay.io/prometheus/prometheus:v2.42.0
-alpine/ansible:2.18.1
+#alpine/ansible:2.18.1
+samanhappy/mcphub
