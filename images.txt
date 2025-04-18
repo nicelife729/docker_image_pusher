@@ -59,4 +59,5 @@
 #quay.io/prometheus/prometheus:v2.42.0
 #alpine/ansible:2.18.1
 #samanhappy/mcphub
-n8nio/n8n:1.88.0
+#n8nio/n8n:1.88.0
+n8nio/n8n:1.86.1
