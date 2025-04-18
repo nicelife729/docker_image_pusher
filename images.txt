@@ -61,5 +61,6 @@
 #samanhappy/mcphub
 #n8nio/n8n:1.88.0
 #n8nio/n8n:1.86.1
-ghcr.io/berriai/litellm:main-stable
-prom/prometheus:v3.3.0
+#ghcr.io/berriai/litellm:main-stable
+#prom/prometheus:v3.3.0
+postgresql:16
