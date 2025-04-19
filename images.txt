@@ -63,4 +63,5 @@
 #n8nio/n8n:1.86.1
 #ghcr.io/berriai/litellm:main-stable
 #prom/prometheus:v3.3.0
-postgres:16
+#postgres:16
+ghcr.io/open-webui/open-webui:main
