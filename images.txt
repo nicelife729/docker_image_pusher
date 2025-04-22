@@ -66,3 +66,4 @@
 #postgres:16
 #ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/mcpo:main
+samanhappy/mcphub:0.4.0-full
