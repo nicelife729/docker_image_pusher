@@ -65,5 +65,6 @@
 #prom/prometheus:v3.3.0
 #postgres:16
 #ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/mcpo:main
-samanhappy/mcphub:0.4.0-full
+#ghcr.io/open-webui/mcpo:main
+#samanhappy/mcphub:0.4.0-full
+docker.io/nvidia/cuda:11.6.2-base-ubuntu20.04
