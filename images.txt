@@ -68,4 +68,5 @@
 #ghcr.io/open-webui/mcpo:main
 #samanhappy/mcphub:0.4.0-full
 #docker.io/nvidia/cuda:11.6.2-base-ubuntu20.04
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+busybox:stable
