@@ -70,4 +70,5 @@
 #docker.io/nvidia/cuda:11.6.2-base-ubuntu20.04
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #busybox:stable
-samanhappy/mcphub:0.5.4-full
+#samanhappy/mcphub:0.5.4-full
+samanhappy/mcphub:0.6.1-full
