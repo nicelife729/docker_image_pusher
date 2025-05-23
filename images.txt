@@ -71,4 +71,6 @@
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
 #busybox:stable
 #samanhappy/mcphub:0.5.4-full
-samanhappy/mcphub:0.6.1-full
+#samanhappy/mcphub:0.6.1-full
+crystaldba/postgres-mcp:0.3.0
+mcp/postgres:latest
