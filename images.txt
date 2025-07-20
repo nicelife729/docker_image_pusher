@@ -74,4 +74,5 @@
 #samanhappy/mcphub:0.6.1-full
 #crystaldba/postgres-mcp:0.3.0
 #mcp/postgres:latest
-ghcr.io/browserless/chromium
+#ghcr.io/browserless/chromium
+gitlab/gitlab-ee:16.0.8-ee.0
