@@ -75,4 +75,7 @@
 #crystaldba/postgres-mcp:0.3.0
 #mcp/postgres:latest
 #ghcr.io/browserless/chromium
-gitlab/gitlab-ee:16.0.8-ee.0
+#gitlab/gitlab-ee:16.0.8-ee.0
+node:20
+redis:alpine
+postgres:15
