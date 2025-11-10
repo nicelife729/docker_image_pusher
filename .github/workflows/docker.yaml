@@ -147,6 +147,9 @@ jobs:
             echo "=============================================================================="
             df -hT
             echo "=============================================================================="
+            # add by xrj 停止并删除使用该镜像的容器
+            docker ps -a | grep $new_image | awk '{print $1}' | xargs -r docker rm -f
+            # add by xrj end
             docker rmi $image
             docker rmi $new_image
             echo "磁盘空间清理完毕"
