@@ -81,4 +81,4 @@
 #node:18-slim
 #bitnami/redis:8.0.3
 bitnami/redis:latest
-#postgres:17
+postgres:17
