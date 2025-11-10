@@ -79,6 +79,6 @@
 #golang:1.24
 #node:22-slim
 #node:18-slim
-#同下bitnami/redis:8.0.3
-bitnami/redis:sha256-a9454f19ce78f03ef0401823b910fa327b2e25bb6b158341d9ee5391fa4e8d89
+#bitnami/redis:8.0.3
+bitnami/redis:latest
 #postgres:17
