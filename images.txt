@@ -98,4 +98,5 @@
 #timberio/vector:0.28.1-alpine
 #supabase/supavisor:2.7.4
 #molyheci/dataflow:cu124
-debian:bullseye-slim
+#debian:bullseye-slim
+rustdesk/rustdesk-server:latest
