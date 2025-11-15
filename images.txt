@@ -97,4 +97,5 @@
 #supabase/postgres:15.8.1.085
 #timberio/vector:0.28.1-alpine
 #supabase/supavisor:2.7.4
-molyheci/dataflow:cu124
+#molyheci/dataflow:cu124
+debian:bullseye-slim
