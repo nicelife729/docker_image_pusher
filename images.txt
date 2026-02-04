@@ -99,4 +99,5 @@
 #supabase/supavisor:2.7.4
 #molyheci/dataflow:cu124
 #debian:bullseye-slim
-rustdesk/rustdesk-server:latest
+#rustdesk/rustdesk-server:latest
+nocodb/nocodb:0.301.2
