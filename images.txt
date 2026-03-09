@@ -100,4 +100,6 @@
 #molyheci/dataflow:cu124
 #debian:bullseye-slim
 #rustdesk/rustdesk-server:latest
-nocodb/nocodb:0.301.2
+#nocodb/nocodb:0.301.2
+n8nio/n8n:2.10.4
+
