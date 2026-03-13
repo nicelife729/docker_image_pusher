@@ -101,5 +101,7 @@
 #debian:bullseye-slim
 #rustdesk/rustdesk-server:latest
 #nocodb/nocodb:0.301.2
-n8nio/n8n:2.10.4
-
+#n8nio/n8n:2.10.4
+forekshub/percona-mongodb-exporter:0.40.0
+bitnami/redis:4.0.9
+httpd:2.4.46
