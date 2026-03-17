@@ -105,4 +105,5 @@
 #forekshub/percona-mongodb-exporter:0.40.0
 #bitnami/redis:4.0.9
 #httpd:2.4.46
-portainer/portainer:latest
+#portainer/portainer:latest
+jc21/nginx-proxy-manager:latest
