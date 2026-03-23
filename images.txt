@@ -106,4 +106,5 @@
 #bitnami/redis:4.0.9
 #httpd:2.4.46
 #portainer/portainer:latest
-jc21/nginx-proxy-manager:latest
+#jc21/nginx-proxy-manager:latest
+henrygd/beszel:0.18.4
