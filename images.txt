@@ -107,4 +107,5 @@
 #httpd:2.4.46
 #portainer/portainer:latest
 #jc21/nginx-proxy-manager:latest
-henrygd/beszel:0.18.4
+#henrygd/beszel:0.18.4
+e2bdev/desktop:latest
